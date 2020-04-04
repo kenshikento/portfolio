@@ -1,11 +1,11 @@
 import React from 'react';
 
-const portfilio = () => {
+const Portfolio = () => {
     return (
         <div className="container">
-            <h4> port</h4>
+            <h4>Projects</h4>
         </div>
     )
 }
 
-export default portfilio;
+export default Portfolio;
